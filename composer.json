@@ -1,0 +1,17 @@
+{
+    "name": "cuatr/bienesraices_inicio",
+    "description": "crando un proyecto con poo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./clases "
+        }
+    },
+    "authors": [
+        {
+            "name": "Jhon Smith",
+            "email": "cuatrozero1@gmail.com"
+        }
+    ],
+    "require": {}
+}
